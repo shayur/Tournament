@@ -80,17 +80,48 @@
 				]
 			  }
 	],
-	"Weirder things":
+	"EventoryData":
 	[
 		{
-		"tID": 0,
-		"tName": "string",
-		"tDate": "2021-03-24T13:24:49.38",
-		},
-		{
-		"tID": 1,
-		"tName": "string",
-		"tDate": "2021-03-24T13:24:49.38",
-		}	
+    "eID": 1,
+    "eName": "Race 1",
+    "eDateTime": "2021-03-23T00:00:00",
+    "eStatus": "Activeee",
+    "eDetails": [
+      {
+        "edID": 1,
+        "edName": "q",
+        "edStatus": "q",
+        "bmID": 1,
+        "bmName": "string",
+        "cOdds": 1,
+        "pOdds": 1,
+        "btName": "type",
+        "url": "string"
+      },
+      {
+        "edID": 1,
+        "edName": "q",
+        "edStatus": "q",
+        "bmID": 1,
+        "bmName": "string",
+        "cOdds": 1,
+        "pOdds": 1,
+        "btName": "type",
+        "url": "string"
+      },
+      {
+        "edID": 1,
+        "edName": "q",
+        "edStatus": "q",
+        "bmID": 1,
+        "bmName": "string",
+        "cOdds": 1,
+        "pOdds": 1,
+        "btName": "type",
+        "url": "string"
+      }
+    ]
+  }
 	]
 }
