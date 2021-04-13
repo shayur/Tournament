@@ -100,15 +100,15 @@
 			"pOdds": 2.22,
 			"url": "www.hollywoodbets.co.za"},
 			{"bmID": 2,
-			"bmName": "AmzingBets",
+			"bmName": "AmazingBets",
 			"cOdds": 1.09,
 			"pOdds": 2.22,
-			"url": "www.hollywoodbets.co.za"},
+			"url": "www.AmazingBets.co.za"},
 			{"bmID": 3,
-			"bmName": "Hollywood",
+			"bmName": "TheBestBookmaker",
 			"cOdds": 1.09,
 			"pOdds": 2.22,
-			"url": "www.hollywoodbets.co.za"}
+			"url": "www.TheBestBookmaker.co.za"}
 		]
 		
       },
@@ -124,15 +124,15 @@
 			"pOdds": null,
 			"url": "www.hollywoodbets.co.za"},
 			{"bmID": 2,
-			"bmName": "AmzingBets",
+			"bmName": "AmazingBets",
 			"cOdds": null,
 			"pOdds": null,
-			"url": "www.hollywoodbets.co.za"},
+			"url": "www.AmazingBets.co.za"},
 			{"bmID": 3,
-			"bmName": "Betway",
+			"bmName": "TheBestBookmaker",
 			"cOdds": null,
 			"pOdds": null,
-			"url": "www.Betway.com"}
+			"url": "www.TheBestBookmaker.co.za"}
 		]
         
       },
@@ -148,15 +148,15 @@
 			"pOdds": 6.22,
 			"url": "www.hollywoodbets.co.za"},
 			{"bmID": 2,
-			"bmName": "AmzingBets",
+			"bmName": "AmazingBets",
 			"cOdds": 2.09,
 			"pOdds": 9.22,
-			"url": "www.hollywoodbets.co.za"},
+			"url": "www.AmazingBets.co.za"},
 			{"bmID": 3,
-			"bmName": "Hollywood",
+			"bmName": "TheBestBookmaker",
 			"cOdds": 1.09,
 			"pOdds": 2.22,
-			"url": "www.hollywoodbets.co.za"}
+			"url": "www.TheBestBookmaker.co.za"}
 		]		
 		
       }
